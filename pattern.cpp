@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int n,i=1,val,j;
+    int n,i=1,val,j;//declaration
     cout<<"Enter number of rows:";//Entering number of rows
     cin>>n;
     while(i<=n){
