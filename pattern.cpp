@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int n,i=1,val,j;
-    cout<<"Enter number of rows:";
+    cout<<"Enter number of rows:";//Entering number of rows
     cin>>n;
     while(i<=n){
 j=1;
